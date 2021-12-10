@@ -1,1 +1,2 @@
+.idea/
 # covid19indonesia
